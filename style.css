@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(162, 77, 247);
+    color: aliceblue;
+}
+body a { 
+    text-decoration: none;
+    color:lightblue;
+    padding-right: 5px;
+    
+
+}
+body li {
+    color: rgb(91, 247, 130);
+}
+a:hover {
+    color: rgb(255, 255, 255) ;
+    background-color: rgb(0, 0, 0) ;
+  }
+  
